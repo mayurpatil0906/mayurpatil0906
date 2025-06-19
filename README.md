@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hi, I'm Mayur Patil from Pune, India <br>🎓 Pursuing B.E. in Information Technology at Dr. D. Y. Patil Institute of Technology<br>💼 Completed a 6-month internship as an AI/ML Intern at Tecnobij Solutions<br><br>💡 What I Do:<br>🐍 Python | ☕ Java | 🌐 Web Development<br><br>🤖 Machine Learning | 📊 Data Science | 🔍 Problem Solving<br><br>🧠 Passionate about building intelligent systems that create impact<br><br>🛠️ Tools & Tech Stack:<br>Python | Java | HTML | CSS | JavaScript<br><br>MySQL | Git & GitHub | VS Code | Streamlit | Pandas | NumPy | scikit-learn<br><br>📈 Currently Working On:<br>Enhancing my ML and Data Science skills<br><br>Contributing to open source and building mini projects
+Hi, I'm Mayur Patil from Pune, India <br>🎓 Pursuing B.E. in Information Technology at Dr. D. Y. Patil Institute of Technology<br>💼 Completed a 6-month internship as an AI/ML Intern at Tecnobij Solutions<br><br>💡 What I Do:<br>🐍 Python | ☕ Java | 🌐 Web Development<br><br>🤖 Machine Learning | 📊 Data Science | 🔍 Problem Solving<br><br>🧠 Passionate about building intelligent systems that create impact<br><br>🛠️ Tools & Tech Stack:<br>Python | Java | HTML | CSS | JavaScript<br><br>MySQL | Git & GitHub | VS Code | Streamlit | Pandas | NumPy | scikit-learn<br><br>📈 Currently Working On:<br>Enhancing my ML and Data Science skills<br><br>Contributing to open source and building mini projects
 
 
 ## 🌐 Socials:
@@ -18,10 +18,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mayurpatil0906&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mayurpatil0906&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
